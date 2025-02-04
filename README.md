@@ -1,7 +1,6 @@
 # Cisco Device Inventory Script
 
 ## Version: 1.0
-**Author:** Jared  
 **Purpose:** Automate Cisco IOS-XE device inventory collection using RESTCONF API via PowerShell.
 
 ---
@@ -159,9 +158,7 @@ Solution: Verify the username and password configured on the device.
 ---
 
 ## Final Thoughts
-This script provides a **reliable, automated way** to collect inventory data from Cisco devices. It **ensures security**, **handles errors gracefully**, and **creates properly formatted reports** for future analysis.
+This script provides a **reliable, automated way** to collect inventory data from Cisco devices. It **creates neatly formatted reports** to enhance inventories and ensure compliance.
 
 If you encounter issues, **double-check your PowerShell version** and **ensure RESTCONF is enabled on your Cisco devices**.
-
-This guide provides a detailed overview for any future users, covering installation, configuration, usage, troubleshooting, and output format. Let me know if there are any additional details needed.
 
