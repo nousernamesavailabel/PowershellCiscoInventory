@@ -1,7 +1,6 @@
 # Cisco Device Inventory Script
 
 ## Version: 1.0
-**Author:** Jared  
 **Purpose:** Automate Cisco IOS-XE device inventory collection using RESTCONF API via PowerShell.
 
 ---
